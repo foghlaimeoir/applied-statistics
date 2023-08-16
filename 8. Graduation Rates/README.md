@@ -24,7 +24,7 @@ measurements.
 ggpairs(graduate)
 ```
 
-![](8.-Graduation-Rates_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
 The observed Pearson correlation coefficient for the 25th percentile SAT
 score of first years entering the college (Sat25) and graduation rate
