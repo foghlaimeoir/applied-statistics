@@ -1,0 +1,1 @@
+Examples of statistical reports in R including topics such as the Sign Test, Wilcoxon Rank Sum Test, Pearson Correlation, Simple Linear Regression, Multiple Linear Regression, Variable Selection, Model Diagnostics, ANOVA and Logistic Regression
